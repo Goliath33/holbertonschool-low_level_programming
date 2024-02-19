@@ -2,7 +2,7 @@
 
 /**
  * main - Char call texte
- * puts (text) donne une r√ponse et √cris le texte
+ * puts (text) donne une reponse et ecris le texte
  * Return: (success)
  */
 
