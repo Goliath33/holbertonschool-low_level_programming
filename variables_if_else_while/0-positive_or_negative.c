@@ -4,7 +4,7 @@
 
 /**
  * main - call fonction RAND_mAX with srand
- * SRAND - Donne un nombre aléatoire et l'analys
+ * SRAND - Donne un nombre aléatoire et l'analyse
  * Return: (success)
  */
 
