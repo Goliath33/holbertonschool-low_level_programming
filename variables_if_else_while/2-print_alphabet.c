@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 /**
- * main - call fonction RAND_mAX with srand
- * Printf - Imprime les caractere demandee
+ * main - call alphabet
+ * putchar - affiche les caractere demandee
  * Return: (success)
  */
 
