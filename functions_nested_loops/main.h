@@ -9,6 +9,6 @@
  * avec les fonctions de rappelée
  */
 
-int main(void);
+int _putchar(char c);
 
 #endif
