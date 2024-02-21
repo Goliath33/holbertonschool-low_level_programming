@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- * main - appel de putchar pour imprime _putchar
- * void print_alphabet(void) fontion appele
+ * print_alphabet - fonction appele
  * putchar: imprime l'ensemble des arguments
  * Return: (SUCCESS)
  */
