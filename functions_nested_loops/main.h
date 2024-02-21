@@ -6,7 +6,7 @@
 
 /** 
  * fichier de configuration + appel de librairie 
- * avec les fonctions de rappelée
+ * avec les fonctions de rappele
  */
 
 int _putchar(char c);
