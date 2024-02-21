@@ -4,7 +4,7 @@
 
 /**
  * main - call fonction alpha for alphabet (qe erase)
- * Putchar all alphabet nether 
+ * Putchar all alphabet nether
  * Return: (Success)
  */
 
