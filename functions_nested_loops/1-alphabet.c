@@ -2,6 +2,7 @@
 
 /**
  * main - appel de putchar pour imprime _putchar
+ * void print_alphabet(void) fontion appele
  * putchar: imprime l'ensemble des arguments
  * Return: (SUCCESS)
  */
