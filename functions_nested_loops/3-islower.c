@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * int _islower(int c) - fonction lowercase
+ * _islower(int c) - fonction lowercase
  * putchar: imprime l'ensemble des arguments
  * Return: (SUCCESS)
  */
