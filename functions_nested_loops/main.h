@@ -10,6 +10,7 @@
  * avec les fonctions de rappele
  */
 
+int _abs(int);
 int main(void);
 int _isalpha(int c);
 int _islower(int c);
