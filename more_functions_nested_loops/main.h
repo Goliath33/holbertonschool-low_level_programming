@@ -17,6 +17,7 @@ int _isupper(int c);
 int _islower(int c);
 int _isdigit(int c);
 int _putchar(char c);
+int mul(int a, int b);
 int print_sign(int n);
 int print_last_digit(int);
 void jack_bauer(void);
