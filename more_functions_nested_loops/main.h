@@ -23,6 +23,7 @@ int print_last_digit(int);
 void more_numbers(void);
 void jack_bauer(void);
 void times_table(void);
+void print_line(int n);
 void print_numbers(void);
 void print_alphabet(void);
 void print_alphabet_x10(void);
