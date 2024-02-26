@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * print_diagonal(int n) - affiche des # pour former un carre
+ * print_square - affiche des # pour former un carre
  * @h - give a height of character
  * @w - give a width of character
- * @size - An input give size of square
+ * @size: taille
  * Return: (SUCCESS)
  */
 
