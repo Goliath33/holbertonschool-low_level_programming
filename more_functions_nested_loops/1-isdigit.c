@@ -3,7 +3,7 @@
 /**
  * _isdigit(int c) - verifie si un caractere est majuscule
  * @c: An input characte
- * Return: 1 if (SUCCESS)
+ * Return: 1 if (SUCCESS) and 0 si pas de majuscule
  */
 
 int _isdigit(int c)
