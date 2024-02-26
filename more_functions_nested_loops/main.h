@@ -20,6 +20,7 @@ int _putchar(char c);
 int mul(int a, int b);
 int print_sign(int n);
 int print_last_digit(int);
+void more_numbers(void);
 void jack_bauer(void);
 void times_table(void);
 void print_numbers(void);
