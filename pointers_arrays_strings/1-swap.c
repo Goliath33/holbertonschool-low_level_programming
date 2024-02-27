@@ -6,7 +6,7 @@
  * @b in memory swap
  * Return: (SUCCESS)
  */
-i
+
 void swap_int(int *a, int *b)
 {
 	int swap;
