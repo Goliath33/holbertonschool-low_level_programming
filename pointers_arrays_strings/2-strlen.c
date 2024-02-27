@@ -2,8 +2,6 @@
 
 /*
  * int _strlen(char *s)
- * @a in memory swap
- * @b in memory swap
  * Return: (SUCCESS)
  */
 
