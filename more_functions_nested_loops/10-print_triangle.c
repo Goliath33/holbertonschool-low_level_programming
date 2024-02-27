@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * print_triangle(int size) - affiche un triangle
  * h = height , w = width
- * @size - define at 0 
+ * @size - define at 0
  * Return: Always 0.
  */
 
