@@ -1,12 +1,12 @@
 #include "main.h"
 
 /*
- * void swap_int(int *a, int *b) - call two pointers
+ * Main - void swap_int(int *a, int *b) - call two pointers
  * @a in memory swap
  * @b in memory swap
  * Return: (SUCCESS)
  */
-
+i
 void swap_int(int *a, int *b)
 {
 	int swap;
