@@ -4,6 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
+#include <string.h>
 
 /** 
  * fichier de configuration + appel de librairie 
@@ -33,6 +34,7 @@ void print_square(int size);
 void print_triangle(int size);
 
 int _strlen(char *s);
+void puts2(char *str);
 void _puts(char *str);
 void print_rev(char *s);
 void rev_string(char *s);
