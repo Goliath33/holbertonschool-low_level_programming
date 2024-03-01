@@ -33,6 +33,7 @@ void print_diagonal(int n);
 void print_square(int size);
 void print_triangle(int size);
 
+int _atoi(char *s);
 int _strlen(char *s);
 void puts2(char *str);
 void _puts(char *str);
