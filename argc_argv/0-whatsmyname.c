@@ -2,7 +2,7 @@
 
 /**
  * main - check the code
- * @argc: argument value og string to call function 
+ * @argc: argument value og string to call function
  * @argv: argument count
  * Return: (SUCCESS)
  */
