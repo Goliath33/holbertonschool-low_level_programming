@@ -1,9 +1,11 @@
 #include "variadic_functions.h"
 
 /**
- * main - check the code
- *
- * Return: Always 0.
+ * sum_them_all - all variable sum
+ * @va_list call args and initialize the function
+ * @va_start start the variadic fucntion
+ * @va_end its the end of variadic function 
+ * Return: Sum if the args as correct.
  */
 
 int sum_them_all(const unsigned int n, ...)
