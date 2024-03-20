@@ -1,10 +1,10 @@
 #include "variadic_functions.h"
 
 /**
- * print_numbers - all variable printf num
- * @va_list call args and initialize the function
- * @va_start start the variadic fucntion
- * @va_end its the end of variadic function
+ * print_numbers: all variable printf num
+ * @va_list: call args and initialize the function
+ * @va_start: start the variadic fucntion
+ * @va_end: its the end of variadic function
  * Return: print the num if the args as correct.
  */
 
