@@ -6,6 +6,7 @@
 #include <ctype.h>
 #include <string.h>
 #include <stddef.h>
+#include <stdarg.h>
 
 /** 
  * fichier de configuration + appel de librairie 
